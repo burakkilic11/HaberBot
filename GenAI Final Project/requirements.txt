@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain_core
+langgraph
+ollama
+chromadb
+newsdataapi 
+python-dotenv
+typing_inspect
+typing_extensions
