@@ -11,7 +11,7 @@ Ollamayı 0.0.0.0'a açmak için:
 
 Powershell yönetici olarak çalıştır, 
 $env:OLLAMA_HOST="0.0.0.0"                                                                      
->> ollama serve   
+ollama serve   
 Kodu çalıştır.
 
 Projeyi aç Terminale yaz ve çalıştır:
