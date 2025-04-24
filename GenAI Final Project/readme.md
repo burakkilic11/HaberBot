@@ -1,10 +1,10 @@
 Proje ana klasörüne .env oluştur. NEWSDATA_API_KEY="" Şeklinde yazarak newsdata api keyi belirt.
-------------------------------------------------------------------------------------------------
+
 Projeyi lokalde çalıştırmak için:
 
 Terminale: streamlit run app.py 
 yaz ve çalıştır
-------------------------------------------------------------------------------------------------
+
 Projeyi Docker'da çalıştırmak için build aldıktan sonra:
 
 Ollamayı 0.0.0.0'a açmak için: 
@@ -19,4 +19,3 @@ docker run --rm -p 8501:8501 -e NEWSDATA_API_KEY="TYPE YOUR API KEY HERE" -e OLL
 
 Bu URL'i kullanarak chatbotu kullan:
 http://localhost:8501
--------------------------------------------------------------------------------------------------
